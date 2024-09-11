@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<types>
+  <type name="seis_Xiphos_base">
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <lifetime>14400</lifetime>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <category name="clothes" />					<!-- same as vanilla sword and mace -->
+    <usage name="Historical" />
+    <value name="" />
+  </type>
+    <type name="seis_Xiphos_bestblade">
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <lifetime>14400</lifetime>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Historical" />
+    <value name="" />
+  </type>
+  <type name="seis_Xiphos_vorpal">
+    <nominal>0</nominal>
+    <restock>0</restock>
+    <lifetime>14400</lifetime>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <usage name="Historical" />
+    <value name="" />
+  </type>
+</types>
